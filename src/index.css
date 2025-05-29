@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+
+.nav {
+  background-color: #ffffff !important;
+  box-shadow: #2123261a 0 10px 10px -10px;
+}
+
+.nav-logo {
+  padding: 0 !important;
+  width: 90px !important;
+  height: auto !important;
+}
+
+
+footer {
+  border-top: 1px solid #eaeaea;
+}
